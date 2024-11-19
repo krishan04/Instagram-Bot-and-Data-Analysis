@@ -18,8 +18,12 @@ This project implements an automated bot to interact with Instagram and perform 
 5. Engagement Metrics: Calculates average likes and engagement ratios for profiles.
 
 ## Technologies Used
-Language: Python /n
+Language: Python
+
 Automation Framework: Selenium
+
 Data Visualization: Matplotlib
+
 Web Scraping: Selenium
+
 Tools: WebDriver for browser automation
