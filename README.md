@@ -16,3 +16,10 @@ This project implements an automated bot to interact with Instagram and perform 
 3. Content Scraping: Extracts content from posts and identifies popular hashtags.
 4. Data Visualization: Creates pie charts for hashtags and bar graphs for follower-to-like ratios.
 5. Engagement Metrics: Calculates average likes and engagement ratios for profiles.
+
+## Technologies Used
+Language: Python
+Automation Framework: Selenium
+Data Visualization: Matplotlib
+Web Scraping: Selenium
+Tools: WebDriver for browser automation
